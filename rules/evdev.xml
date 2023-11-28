@@ -16,9 +16,23 @@
         </variant>
         <variant>
           <configItem>
-            <name>meinmine</name>
-            <shortDescription>mein mine</shortDescription>
-            <description>German (Mein Mine)</description>
+            <name>mine_s</name>
+            <shortDescription>mine s</shortDescription>
+            <description>German (Mine S)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>mine_s7</name>
+            <shortDescription>mine s7</shortDescription>
+            <description>German (Mine S7)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>kyne</name>
+            <shortDescription>kyne</shortDescription>
+            <description>German (Kyne)</description>
           </configItem>
         </variant>
       </variantList>

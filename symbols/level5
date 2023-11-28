@@ -1,0 +1,15 @@
+partial modifier_keys
+xkb_symbols "tab_switch_lock" {
+  include "level5(lock)"
+  key <TAB> {[  ISO_Level5_Shift, ISO_Level5_Shift, ISO_Level5_Shift, ISO_Level5_Shift,
+                 ISO_Level5_Lock, ISO_Level5_Lock, ISO_Level5_Lock, ISO_Level5_Lock  ],
+                 type[group1] = "EIGHT_LEVEL" };
+};
+
+partial modifier_keys
+xkb_symbols "ad12_switch_lock" {
+  include "level5(lock)"
+  key <AD12> {[  ISO_Level5_Shift, ISO_Level5_Shift, ISO_Level5_Shift, ISO_Level5_Shift,
+                 ISO_Level5_Lock, ISO_Level5_Lock, ISO_Level5_Lock, ISO_Level5_Lock  ],
+                 type[group1] = "EIGHT_LEVEL" };
+};
