@@ -109,17 +109,17 @@ xkb_symbols "mine_s7_base" {
     key <AE12> { [ dead_grave,              dead_cedilla,            dead_abovering,          VoidSymbol,               dead_diaeresis,          NoSymbol,                dead_dasia,              dead_macron             ] };
 
     key.type[Group1] = "EIGHT_LEVEL_WITH_LEVEL5_LOCK";
-    key <AE01> { [ 1,                       onesuperior,             onesubscript,            U2190,                    VoidSymbol,              NoSymbol,                VoidSymbol,              notsign                 ] };
-    key <AE02> { [ 2,                       twosuperior,             twosubscript,            U2191,                    VoidSymbol,              NoSymbol,                VoidSymbol,              logicalor               ] };
-    key <AE03> { [ 3,                       threesuperior,           threesubscript,          U2192,                    VoidSymbol,              NoSymbol,                VoidSymbol,              logicaland              ] };
-    key <AE04> { [ 4,                       foursuperior,            foursubscript,           U2193,                    VoidSymbol,              NoSymbol,                femalesymbol,            U22A5                   ] };
-    key <AE05> { [ 5,                       fivesuperior,            fivesubscript,           U2020,                    VoidSymbol,              NoSymbol,                malesymbol,              U2221                   ] };
-    key <AE06> { [ 6,                       sixsuperior,             sixsubscript,            U2205,                    VoidSymbol,              NoSymbol,                U26A5,                   U2225                   ] };
+    key <AE01> { [ 1,                       onesuperior,             onesubscript,            U22C5,                    VoidSymbol,              NoSymbol,                VoidSymbol,              notsign                 ] };
+    key <AE02> { [ 2,                       twosuperior,             twosubscript,            U2236,                    VoidSymbol,              NoSymbol,                VoidSymbol,              logicalor               ] };
+    key <AE03> { [ 3,                       threesuperior,           threesubscript,          U00D7,                    VoidSymbol,              NoSymbol,                VoidSymbol,              logicaland              ] };
+    key <AE04> { [ 4,                       foursuperior,            foursubscript,           U2215,                    VoidSymbol,              NoSymbol,                femalesymbol,            U22A5                   ] };
+    key <AE05> { [ 5,                       fivesuperior,            fivesubscript,           U2216,                    VoidSymbol,              NoSymbol,                malesymbol,              U2221                   ] };
+    key <AE06> { [ 6,                       sixsuperior,             sixsubscript,            U2223,                    VoidSymbol,              NoSymbol,                U26A5,                   U2225                   ] };
 
-    key <AE07> { [ 7,                       sevensuperior,           sevensubscript,          U22C5,                    VoidSymbol,              NoSymbol,                U03F0,                   rightarrow              ] };
-    key <AE08> { [ 8,                       eightsuperior,           eightsubscript,          U2236,                    ordfeminine,             NoSymbol,                U27E8,                   U221E                   ] };
-    key <AE09> { [ 9,                       ninesuperior,            ninesubscript,           U00D7,                    masculine,               NoSymbol,                U27E9,                   variation               ] };
-    key <AE10> { [ 0,                       zerosuperior,            zerosubscript,           U2215,                    VoidSymbol,              NoSymbol,                VoidSymbol,              emptyset                ] };
+    key <AE07> { [ 7,                       sevensuperior,           sevensubscript,          U2020,                    VoidSymbol,              NoSymbol,                U03F0,                   rightarrow              ] };
+    key <AE08> { [ 8,                       eightsuperior,           eightsubscript,          U221E,                    ordfeminine,             NoSymbol,                U27E8,                   U221E                   ] };
+    key <AE09> { [ 9,                       ninesuperior,            ninesubscript,           U27FC,                    masculine,               NoSymbol,                U27E9,                   variation               ] };
+    key <AE10> { [ 0,                       zerosuperior,            zerosubscript,           U2205,                    VoidSymbol,              NoSymbol,                VoidSymbol,              emptyset                ] };
 
     key.type[Group1] = "EIGHT_LEVEL_ALPHABETIC_WITH_LEVEL5_LOCK";
 
