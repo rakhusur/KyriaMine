@@ -113,7 +113,7 @@ xkb_symbols "mine_s7_base" {
     key <AE02> { [ 2,                       twosuperior,             twosubscript,            U2191,                    VoidSymbol,              NoSymbol,                VoidSymbol,              logicalor               ] };
     key <AE03> { [ 3,                       threesuperior,           threesubscript,          U2192,                    VoidSymbol,              NoSymbol,                VoidSymbol,              logicaland              ] };
     key <AE04> { [ 4,                       foursuperior,            foursubscript,           U2193,                    VoidSymbol,              NoSymbol,                femalesymbol,            U22A5                   ] };
-    key <AE05> { [ 5,                       fivesuperior,            fivesubscript,           U2020,                    periodcentered,          NoSymbol,                malesymbol,              U2221                   ] };
+    key <AE05> { [ 5,                       fivesuperior,            fivesubscript,           U2020,                    VoidSymbol,              NoSymbol,                malesymbol,              U2221                   ] };
     key <AE06> { [ 6,                       sixsuperior,             sixsubscript,            U2205,                    VoidSymbol,              NoSymbol,                U26A5,                   U2225                   ] };
 
     key <AE07> { [ 7,                       sevensuperior,           sevensubscript,          U22C5,                    VoidSymbol,              NoSymbol,                U03F0,                   rightarrow              ] };
@@ -140,11 +140,11 @@ xkb_symbols "mine_s7_base" {
     key <AC03> { [ i,                       I,                       NoSymbol,                doublelowquotemark,       NoSymbol,                NoSymbol,                Greek_iota,              integral                ] };
     key <AC04> { [ e,                       E,                       NoSymbol,                leftdoublequotemark,      NoSymbol,                NoSymbol,                Greek_epsilon,           U2203                   ] };
     key <AC05> { [ o,                       O,                       NoSymbol,                rightdoublequotemark,     NoSymbol,                NoSymbol,                Greek_omicron,           elementof               ] };
-    key <AC06> { [ m,                       M,                       NoSymbol,                U2015,                    KP_Decimal,              NoSymbol,                Greek_mu,                ifonlyif                ] };
-    key <AC07> { [ n,                       N,                       NoSymbol,                emdash,                   NoSymbol,                NoSymbol,                Greek_nu,                U2115                   ] };
-    key <AC08> { [ t,                       T,                       NoSymbol,                endash,                   NoSymbol,                NoSymbol,                Greek_tau,               partialderivative       ] };
+    key <AC06> { [ m,                       M,                       NoSymbol,                emdash,                   KP_Decimal,              NoSymbol,                Greek_mu,                ifonlyif                ] };
+    key <AC07> { [ n,                       N,                       NoSymbol,                endash,                   NoSymbol,                NoSymbol,                Greek_nu,                U2115                   ] };
+    key <AC08> { [ t,                       T,                       NoSymbol,                U2027,                    NoSymbol,                NoSymbol,                Greek_tau,               partialderivative       ] };
     key <AC09> { [ s,                       S,                       NoSymbol,                U2011,                    NoSymbol,                NoSymbol,                Greek_sigma,             Greek_SIGMA             ] };
-    key <AC10> { [ h,                       H,                       NoSymbol,                U2027,                    KP_Add,                  NoSymbol,                Greek_psi,               Greek_PSI               ] };
+    key <AC10> { [ h,                       H,                       NoSymbol,                U00B7,                    KP_Add,                  NoSymbol,                Greek_psi,               Greek_PSI               ] };
 
     key <LSGT> { [ ssharp,                  U1E9E,                   VoidSymbol,              section,                  VoidSymbol,              NoSymbol,                Greek_finalsmallsigma,   jot                     ] };
     key <AB01> { [ v,                       V,                       NoSymbol,                U2039,                    NoSymbol,                NoSymbol,                VoidSymbol,              radical                 ] };
