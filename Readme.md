@@ -47,14 +47,14 @@ support more than three modifiers.
 
 ### Base Layer
 
-![Mine S7 Base Layer](https://github.com/rakhusur/MineLayoutVariants/blob/master/images/Mine-S7%20Level0%20(Standard).svg)
+![Mine S7 Base Layer](/images/Mine-S7%20Level0%20(Standard).svg)
 
 Like Mine level 1 except for the positions of the modifier keys, tab, ß
 and grave.
 
 ### Uppercase Layer (Shift)
 
-![Mine S7 Shift Layer](https://github.com/rakhusur/MineLayoutVariants/blob/master/images/Mine-S7%20Level1%20(Uppercase).svg)
+![Mine S7 Shift Layer](/images/Mine-S7%20Level1%20(Uppercase).svg)
  
 Mine level 2 with the following modifications:
  - The number row contains raised numbers,
@@ -68,7 +68,7 @@ Mine level 2 with the following modifications:
 
 ### Programming Layer (Sym)
 
-![Mine S7 Progamming Layer](https://github.com/rakhusur/MineLayoutVariants/blob/master/images/Mine-S7%20Level2%20(Symbols).svg)
+![Mine S7 Progamming Layer](/images/Mine-S7%20Level2%20(Symbols).svg)
 
 Mine level 3 with the following modifications:
  - The number row contains lowered numbers,
@@ -76,7 +76,7 @@ Mine level 3 with the following modifications:
 
 ### Typographical Layer (Shift + Sym)
 
-![Mine S7 Typographical Layer](https://github.com/rakhusur/MineLayoutVariants/blob/master/images/Mine-S7%20Level3%20(More%20Symbols).svg)
+![Mine S7 Typographical Layer](/images/Mine-S7%20Level3%20(More%20Symbols).svg)
 
 This layer contains currency symbols, quotation marks, 
 dashes (em dash, en dash, soft hyphen, non-breaking hyphen)
@@ -90,7 +90,7 @@ Some hints to remember the positions:
 
 ### Navigation and Number Layer (NavNum)
 
-![Mine S7 NavNum Layer](https://github.com/rakhusur/MineLayoutVariants/blob/master/images/Mine-S7%20Level4%20(NavNum).svg)
+![Mine S7 NavNum Layer](/images/Mine-S7%20Level4%20(NavNum).svg)
 
 Mine level 4 with the following modifications:
  - I’ve changed the symbols the right hand can type.
@@ -98,7 +98,7 @@ Mine level 4 with the following modifications:
 
 ### Greek Layer (GreekMath)
 
-![Mine S7 Greek Layer](https://github.com/rakhusur/MineLayoutVariants/blob/master/images/Mine-S7%20Level6%20(Greek).svg)
+![Mine S7 Greek Layer](/images/Mine-S7%20Level6%20(Greek).svg)
 
 Mine level 5, except that I’ve moved the kappa variant `ϰ` to the `ü` key
 (and I’ve added the pi variant `ϖ` on `v`)
@@ -106,7 +106,7 @@ and made the number row all math symbols.
 
 ### Math Layer (Shift + GreekMath)
 
-![Mine S7 Math Layer](https://github.com/rakhusur/MineLayoutVariants/blob/master/images/Mine-S7%20Level7%20(Math).svg)
+![Mine S7 Math Layer](/images/Mine-S7%20Level7%20(Math).svg)
 
 Same as Mine level 6.
 
