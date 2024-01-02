@@ -123,11 +123,11 @@ xkb_symbols "mine_s7_base" {
 
     key.type[Group1] = "EIGHT_LEVEL_ALPHABETIC_WITH_LEVEL5_LOCK";
 
-    key <AD01> { [ j,                       J,                       NoSymbol,                currency,                 NoSymbol,                NoSymbol,                Greek_theta,             Greek_THETA             ] };
+    key <AD01> { [ j,                       J,                       at,                      currency,                 NoSymbol,                NoSymbol,                Greek_theta,             Greek_THETA             ] };
     key <AD02> { [ l,                       L,                       NoSymbol,                sterling,                 NoSymbol,                NoSymbol,                Greek_lambda,            Greek_LAMBDA            ] };
     key <AD03> { [ u,                       U,                       NoSymbol,                cent,                     NoSymbol,                NoSymbol,                VoidSymbol,              includedin              ] };
     key <AD04> { [ a,                       A,                       NoSymbol,                EuroSign,                 NoSymbol,                NoSymbol,                Greek_alpha,             U2200                   ] };
-    key <AD05> { [ q,                       Q,                       at,                      yen,                      NoSymbol,                NoSymbol,                U03D5,                   U211A                   ] };
+    key <AD05> { [ q,                       Q,                       NoSymbol,                yen,                      NoSymbol,                NoSymbol,                U03D5,                   U211A                   ] };
     key <AD06> { [ w,                       W,                       NoSymbol,                U2660,                    KP_Separator,            NoSymbol,                Greek_omega,             Greek_OMEGA             ] };
     key <AD07> { [ b,                       B,                       NoSymbol,                U2661,                    NoSymbol,                NoSymbol,                Greek_beta,              U21D0                   ] };
     key <AD08> { [ d,                       D,                       NoSymbol,                U2662,                    NoSymbol,                NoSymbol,                Greek_delta,             Greek_DELTA             ] };
@@ -142,7 +142,7 @@ xkb_symbols "mine_s7_base" {
     key <AC05> { [ o,                       O,                       NoSymbol,                rightdoublequotemark,     NoSymbol,                NoSymbol,                Greek_omicron,           elementof               ] };
     key <AC06> { [ m,                       M,                       NoSymbol,                emdash,                   KP_Decimal,              NoSymbol,                Greek_mu,                ifonlyif                ] };
     key <AC07> { [ n,                       N,                       NoSymbol,                endash,                   NoSymbol,                NoSymbol,                Greek_nu,                U2115                   ] };
-    key <AC08> { [ t,                       T,                       NoSymbol,                U2027,                    NoSymbol,                NoSymbol,                Greek_tau,               partialderivative       ] };
+    key <AC08> { [ t,                       T,                       NoSymbol,                U00AD,                    NoSymbol,                NoSymbol,                Greek_tau,               partialderivative       ] };
     key <AC09> { [ s,                       S,                       NoSymbol,                U2011,                    NoSymbol,                NoSymbol,                Greek_sigma,             Greek_SIGMA             ] };
     key <AC10> { [ h,                       H,                       NoSymbol,                U00B7,                    KP_Add,                  NoSymbol,                Greek_psi,               Greek_PSI               ] };
 
