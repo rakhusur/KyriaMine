@@ -56,7 +56,7 @@
    showguides="true"
    inkscape:guide-bbox="true"
    inkscape:zoom="1.2132302"
-   inkscape:cx="292.60729"
+   inkscape:cx="293.01941"
    inkscape:cy="82.424589"
    inkscape:current-layer="T_stdletters"
    inkscape:window-x="26"
@@ -831,9 +831,17 @@
    inkscape:label="T_AB07">0</text><text
    id="text19"
    x="707.41815"
-   y="120.20419"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;writing-mode:lr-tb"
-   inkscape:label="T_AE09">⇥</text></g>
+   y="115.31628"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.5;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;writing-mode:lr-tb"
+   inkscape:label="T_AE09"><tspan
+     sodipodi:role="line"
+     id="tspan3"
+     x="707.41815"
+     y="115.31628">⇥</tspan><tspan
+     sodipodi:role="line"
+     id="tspan4"
+     x="707.41815"
+     y="125.81628">⇤</tspan></text></g>
 
   
   <g

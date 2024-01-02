@@ -56,9 +56,9 @@
    showguides="true"
    inkscape:guide-bbox="true"
    inkscape:zoom="1.2"
-   inkscape:cx="305"
+   inkscape:cx="304.58333"
    inkscape:cy="150.83333"
-   inkscape:current-layer="T_others"
+   inkscape:current-layer="sublayer3a"
    inkscape:window-x="26"
    inkscape:window-y="23"
    showgrid="true"
@@ -546,23 +546,7 @@
    inkscape:label="alternative signs"
    style="display:inline">
 <!-- Tabulations  -->
-    <g
-   id="g47"
-   inkscape:label="tab"
-   transform="translate(694.68101,50.166478)"
-   style="stroke-width:1.50607;stroke-dasharray:none"><path
-     id="S_kb3a-l1"
-     style="fill:none;stroke:#000000;stroke-width:1.50607;stroke-dasharray:none;marker-end:url(#TriangleOutM)"
-     d="M 34,69.642618 H 14" /><path
-     id="S_kb3a-l2"
-     style="display:inline;fill:none;stroke:#000000;stroke-width:1.50607;stroke-dasharray:none"
-     d="m 10,63.642618 v 12" /><path
-     id="S_kb3a-r1"
-     style="display:inline;fill:none;stroke:#000000;stroke-width:1.50607;stroke-dasharray:none;marker-end:url(#TriangleOutM)"
-     d="M 10,79.849402 H 30" /><path
-     id="S_kb3a-r2"
-     style="display:inline;fill:none;stroke:#000000;stroke-width:1.50607;stroke-dasharray:none"
-     d="m 34,73.849402 v 12" /></g>
+    
     
     
     
@@ -588,7 +572,22 @@
    inkscape:connector-curvature="0" />
 <!-- Caps Lock  -->
     
-  </g>
+  <g
+   id="g1"
+   transform="translate(8.879767,9.7951008)"><text
+     id="text19"
+     x="707.41815"
+     y="115.31628"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21px;line-height:0.5;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+     inkscape:label="T_AE09"><tspan
+       sodipodi:role="line"
+       id="tspan3-3"
+       x="707.41815"
+       y="115.31628">⇥</tspan><tspan
+       sodipodi:role="line"
+       id="tspan4-6"
+       x="707.41815"
+       y="125.81628">⇤</tspan></text></g></g>
 </g>
 <!-- ========     Inscriptions layer    ======== -->
 <g

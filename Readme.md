@@ -24,6 +24,11 @@ This variant contains two changes:
 
 This gives a more symmetric layout and should also be more usable with a 104 key keyboard.
 
+Having tab not in the usual place takes a bit of getting used to but it’s
+not that bad.
+Unfortunately, a few programs don’t behave properly and still treat the
+key as tab.
+
 ## Mine S7
 
 This variant sacrifices the dash key for another modifier key.
@@ -109,6 +114,16 @@ and made the number row all math symbols.
 ![Mine S7 Math Layer](/images/Mine-S7%20Level7%20(Math).svg)
 
 Same as Mine level 6.
+
+Note: There are too many math symbols to have keys for them all
+with a finite number of layers, let alone to remember their positions.
+I therefore find it more useful to use compose.
+The programming layer offers many of the “ingredients” as well as the
+compose key, so many symbols can be typed with this layer alone, e.g.
+`± ∓ ≤ ≥ → ← ≔ ≕ ⊢ ⊨ ÷ ‖ ≈ ≅ ≠ ⊳ ⊲`.
+For the math symbols on the number row of the typographical and greek
+layers, I’ve mostly chosen some which can’t be done this way
+or have not so natural compose sequences.
 
 ## Kyne
 
