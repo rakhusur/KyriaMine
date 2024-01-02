@@ -98,8 +98,9 @@ Some hints to remember the positions:
 ![Mine S7 NavNum Layer](/images/Mine-S7%20Level4%20(NavNum).svg)
 
 Mine level 4 with the following modifications:
- - I’ve changed the symbols the right hand can type.
- The spanish `¿`, `¡` can still be typed with `♫+?+?`, `♫+!+!`.
+ - I’ve changed the symbols the right hand can type in an attempt to
+ make them as useful as possible for calculator-like applications.
+ The spanish `¿`, `¡` must now be typed with `♫+?+?`, `♫+!+!`.
 
 ### Greek Layer (GreekMath)
 

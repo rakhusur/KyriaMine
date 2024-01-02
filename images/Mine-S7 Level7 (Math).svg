@@ -56,9 +56,9 @@
    showguides="true"
    inkscape:guide-bbox="true"
    inkscape:zoom="1.6970563"
-   inkscape:cx="553.01643"
+   inkscape:cx="458.73552"
    inkscape:cy="46.551196"
-   inkscape:current-layer="T_stdletters"
+   inkscape:current-layer="T_others"
    inkscape:window-x="26"
    inkscape:window-y="23"
    showgrid="true"
@@ -580,7 +580,7 @@
    id="text7"><tspan
      sodipodi:role="line"
      id="tspan7"
-     style="stroke-width:1.00003"></tspan></text></g>
+     style="stroke-width:1.00003" /></text></g>
 </g>
 <!-- ========     Inscriptions layer    ======== -->
 <g
@@ -926,7 +926,11 @@
      sodipodi:role="line"
      id="tspan3"
      x="46.260513"
-     y="86.662865">Num</tspan></text></g>
+     y="86.662865">Num</tspan></text><text
+   id="text1"
+   x="368.4696"
+   y="230"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;writing-mode:lr-tb;text-anchor:middle">narrow no-break space</text></g>
 <!-- ========     alternates inscriptions    ======== -->
   
 <!-- ========        Linux Key with AltGr     ======== -->

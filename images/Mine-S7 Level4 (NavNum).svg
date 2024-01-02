@@ -622,7 +622,7 @@
    id="T_kb3g"
    x="366"
    y="72"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;writing-mode:lr-tb">,</text>
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;writing-mode:lr-tb">/</text>
 
     <text
    id="T_kb3h"
@@ -646,7 +646,7 @@
    id="T_kb3k"
    x="582"
    y="72"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;writing-mode:lr-tb">*</text>
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;writing-mode:lr-tb">-</text>
 
 
     <text
@@ -683,7 +683,7 @@
    id="T_kb4g"
    x="382"
    y="122"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;writing-mode:lr-tb">.</text>
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;writing-mode:lr-tb">*</text>
 
     <text
    id="T_kb4h"
@@ -740,19 +740,14 @@
    y="172"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;writing-mode:lr-tb">↶</text>
 
-    <text
-   id="T_kb5h"
-   x="402"
-   y="172"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;writing-mode:lr-tb"
-   inkscape:label="T_kb5h">⍽</text>
+    
 
   <text
    id="text6"
    x="618.98334"
    y="172"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;writing-mode:lr-tb"
-   inkscape:label="T_AB10">-</text><text
+   inkscape:label="T_AB10">)</text><text
    id="text5"
    x="564.98334"
    y="172"
@@ -777,7 +772,7 @@
    x="637.07233"
    y="72"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;writing-mode:lr-tb"
-   inkscape:label="T_AD11">/</text><text
+   inkscape:label="T_AD11">.</text><text
    id="text47"
    x="665.49908"
    y="21.501783"
@@ -841,7 +836,12 @@
      sodipodi:role="line"
      id="tspan4"
      x="707.41815"
-     y="125.81628">⇤</tspan></text></g>
+     y="125.81628">⇤</tspan></text><text
+   id="text12"
+   x="402.57364"
+   y="172"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;writing-mode:lr-tb"
+   inkscape:label="T_AB10">(</text></g>
 
   
   <g

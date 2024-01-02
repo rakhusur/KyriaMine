@@ -128,19 +128,21 @@ xkb_symbols "mine_s7_base" {
     key <AD03> { [ u,                       U,                       NoSymbol,                cent,                     NoSymbol,                NoSymbol,                VoidSymbol,              includedin              ] };
     key <AD04> { [ a,                       A,                       NoSymbol,                EuroSign,                 NoSymbol,                NoSymbol,                Greek_alpha,             U2200                   ] };
     key <AD05> { [ q,                       Q,                       NoSymbol,                yen,                      NoSymbol,                NoSymbol,                U03D5,                   U211A                   ] };
-    key <AD06> { [ w,                       W,                       NoSymbol,                U2660,                    KP_Separator,            NoSymbol,                Greek_omega,             Greek_OMEGA             ] };
+
+    key <AD06> { [ w,                       W,                       NoSymbol,                U2660,                    KP_Divide,               NoSymbol,                Greek_omega,             Greek_OMEGA             ] };
     key <AD07> { [ b,                       B,                       NoSymbol,                U2661,                    NoSymbol,                NoSymbol,                Greek_beta,              U21D0                   ] };
     key <AD08> { [ d,                       D,                       NoSymbol,                U2662,                    NoSymbol,                NoSymbol,                Greek_delta,             Greek_DELTA             ] };
     key <AD09> { [ g,                       G,                       NoSymbol,                U2663,                    NoSymbol,                NoSymbol,                Greek_gamma,             Greek_GAMMA             ] };
-    key <AD10> { [ y,                       Y,                       NoSymbol,                U2714,                    KP_Multiply,             NoSymbol,                Greek_upsilon,           nabla                   ] };
-    key <AD11> { [ z,                       Z,                       at,                      U2718,                    KP_Divide,               NoSymbol,                Greek_zeta,              U2124                   ] };
+    key <AD10> { [ y,                       Y,                       NoSymbol,                U2714,                    KP_Subtract,             NoSymbol,                Greek_upsilon,           nabla                   ] };
+    key <AD11> { [ z,                       Z,                       at,                      U2718,                    KP_Decimal,              NoSymbol,                Greek_zeta,              U2124                   ] };
 
     key <AC01> { [ c,                       C,                       NoSymbol,                guillemotleft,            NoSymbol,                NoSymbol,                Greek_chi,               U2102                   ] };
     key <AC02> { [ r,                       R,                       NoSymbol,                guillemotright,           NoSymbol,                NoSymbol,                Greek_rho,               U211D                   ] };
     key <AC03> { [ i,                       I,                       NoSymbol,                doublelowquotemark,       NoSymbol,                NoSymbol,                Greek_iota,              integral                ] };
     key <AC04> { [ e,                       E,                       NoSymbol,                leftdoublequotemark,      NoSymbol,                NoSymbol,                Greek_epsilon,           U2203                   ] };
     key <AC05> { [ o,                       O,                       NoSymbol,                rightdoublequotemark,     NoSymbol,                NoSymbol,                Greek_omicron,           elementof               ] };
-    key <AC06> { [ m,                       M,                       NoSymbol,                emdash,                   KP_Decimal,              NoSymbol,                Greek_mu,                ifonlyif                ] };
+
+    key <AC06> { [ m,                       M,                       NoSymbol,                emdash,                   KP_Multiply,             NoSymbol,                Greek_mu,                ifonlyif                ] };
     key <AC07> { [ n,                       N,                       NoSymbol,                endash,                   NoSymbol,                NoSymbol,                Greek_nu,                U2115                   ] };
     key <AC08> { [ t,                       T,                       NoSymbol,                U00AD,                    NoSymbol,                NoSymbol,                Greek_tau,               partialderivative       ] };
     key <AC09> { [ s,                       S,                       NoSymbol,                U2011,                    NoSymbol,                NoSymbol,                Greek_sigma,             Greek_SIGMA             ] };
@@ -152,16 +154,17 @@ xkb_symbols "mine_s7_base" {
     key <AB03> { [ udiaeresis,              Udiaeresis,              NoSymbol,                singlelowquotemark,       NoSymbol,                NoSymbol,                U03F0,                   union                   ] };
     key <AB04> { [ adiaeresis,              Adiaeresis,              NoSymbol,                leftsinglequotemark,      NoSymbol,                NoSymbol,                Greek_eta,               U2135                   ] };
     key <AB05> { [ odiaeresis,              Odiaeresis,              NoSymbol,                rightsinglequotemark,     NoSymbol,                NoSymbol,                U03F5,                   intersection            ] };
-    key <AB06> { [ p,                       P,                       NoSymbol,                U2113,                    U202F,                   NoSymbol,                Greek_pi,                Greek_PI                ] };
+
+    key <AB06> { [ p,                       P,                       NoSymbol,                U2113,                    parenleft,               NoSymbol,                Greek_pi,                Greek_PI                ] };
     key <AB07> { [ f,                       F,                       NoSymbol,                U2030,                    NoSymbol,                NoSymbol,                Greek_phi,               Greek_PHI               ] };
     key.type[Group1] = "EIGHT_LEVEL_WITH_LEVEL5_LOCK";
     key <AB08> { [ comma,                   ellipsis,                NoSymbol,                degree,                   NoSymbol,                NoSymbol,                U03F1,                   U21D2                   ] };
     key <AB09> { [ period,                  rightsinglequotemark,    NoSymbol,                enfilledcircbullet,       NoSymbol,                NoSymbol,                U03D1,                   U21A6                   ] };
     key.type[Group1] = "EIGHT_LEVEL_ALPHABETIC_WITH_LEVEL5_LOCK";
-    key <AB10> { [ k,                       K,                       NoSymbol,                U2023,                    KP_Subtract,             KP_Decimal,              Greek_kappa,             multiply                ] };
+    key <AB10> { [ k,                       K,                       NoSymbol,                U2023,                    parenright,              KP_Decimal,              Greek_kappa,             multiply                ] };
 
     key.type[Group1] = "EIGHT_LEVEL_WITH_LEVEL5_LOCK";
-    key <SPCE> { [ space,                   underscore,              space,                   nobreakspace,             KP_0,                    KP_0,                    U202F,                   NoSymbol                 ] };
+    key <SPCE> { [ space,                   underscore,              space,                   nobreakspace,             KP_0,                    KP_0,                    U202F,                   VoidSymbol              ] };
 };
 
 default partial alphanumeric_keys modifier_keys keypad_keys
