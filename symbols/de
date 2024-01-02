@@ -103,20 +103,20 @@ xkb_symbols "mine_s7_base" {
     key.type[Group1] = "ONE_LEVEL";
     key <RALT> { [ VoidSymbol ], actions[Group1] = [ SetMods(modifiers=Mod3+Mod5) ] };
     key.type[Group1] = "EIGHT_LEVEL_WITH_LEVEL5_LOCK";
-    key <AC12> { [ Tab,                     ISO_Left_Tab,            Multi_key,               ISO_Level5_Lock,          NoSymbol,                NoSymbol,                NoSymbol,                ISO_Level5_Lock         ] };
+    key <AC12> { [ Tab,                     ISO_Left_Tab,            Multi_key,               Multi_key,                Tab,                     ISO_Left_Tab,            Multi_key,               Multi_key               ] };
     key <TLDE> { [ dead_circumflex,         dead_caron,              U21BB,                   VoidSymbol,               dead_abovedot,           Pointer_EnableKeys,      U02DE,                   dead_belowdot           ] };
-    key <AE11> { [ dead_acute,              dead_tilde,              dead_stroke,             VoidSymbol,               dead_doubleacute,        NoSymbol,                dead_psili,              dead_breve              ] };
-    key <AE12> { [ dead_grave,              dead_cedilla,            dead_abovering,          VoidSymbol,               dead_diaeresis,          NoSymbol,                dead_dasia,              dead_macron             ] };
+    key <AE11> { [ dead_acute,              dead_tilde,              dead_stroke,             U20D7,                    dead_doubleacute,        NoSymbol,                dead_psili,              dead_breve              ] };
+    key <AE12> { [ dead_grave,              dead_cedilla,            dead_abovering,          U20D1,                    dead_diaeresis,          NoSymbol,                dead_dasia,              dead_macron             ] };
 
     key.type[Group1] = "EIGHT_LEVEL_WITH_LEVEL5_LOCK";
-    key <AE01> { [ 1,                       onesuperior,             onesubscript,            U22C5,                    VoidSymbol,              NoSymbol,                VoidSymbol,              notsign                 ] };
-    key <AE02> { [ 2,                       twosuperior,             twosubscript,            U2236,                    VoidSymbol,              NoSymbol,                VoidSymbol,              logicalor               ] };
-    key <AE03> { [ 3,                       threesuperior,           threesubscript,          U00D7,                    VoidSymbol,              NoSymbol,                VoidSymbol,              logicaland              ] };
-    key <AE04> { [ 4,                       foursuperior,            foursubscript,           U2215,                    VoidSymbol,              NoSymbol,                femalesymbol,            U22A5                   ] };
-    key <AE05> { [ 5,                       fivesuperior,            fivesubscript,           U2216,                    VoidSymbol,              NoSymbol,                malesymbol,              U2221                   ] };
-    key <AE06> { [ 6,                       sixsuperior,             sixsubscript,            U2223,                    VoidSymbol,              NoSymbol,                U26A5,                   U2225                   ] };
+    key <AE01> { [ 1,                       onesuperior,             onesubscript,            U22C5,                    VoidSymbol,              NoSymbol,                includedin,              notsign                 ] };
+    key <AE02> { [ 2,                       twosuperior,             twosubscript,            U2236,                    VoidSymbol,              NoSymbol,                includes,                logicalor               ] };
+    key <AE03> { [ 3,                       threesuperior,           threesubscript,          U00D7,                    VoidSymbol,              NoSymbol,                U227A,                   logicaland              ] };
+    key <AE04> { [ 4,                       foursuperior,            foursubscript,           U2215,                    VoidSymbol,              NoSymbol,                U227B,                   U22A5                   ] };
+    key <AE05> { [ 5,                       fivesuperior,            fivesubscript,           U2216,                    VoidSymbol,              NoSymbol,                U2295,                   U2221                   ] };
+    key <AE06> { [ 6,                       sixsuperior,             sixsubscript,            U2223,                    VoidSymbol,              NoSymbol,                U2297,                   U2225                   ] };
 
-    key <AE07> { [ 7,                       sevensuperior,           sevensubscript,          U2020,                    VoidSymbol,              NoSymbol,                U03F0,                   rightarrow              ] };
+    key <AE07> { [ 7,                       sevensuperior,           sevensubscript,          U2020,                    VoidSymbol,              NoSymbol,                U2299,                   rightarrow              ] };
     key <AE08> { [ 8,                       eightsuperior,           eightsubscript,          U221E,                    ordfeminine,             NoSymbol,                U27E8,                   U221E                   ] };
     key <AE09> { [ 9,                       ninesuperior,            ninesubscript,           U27FC,                    masculine,               NoSymbol,                U27E9,                   variation               ] };
     key <AE10> { [ 0,                       zerosuperior,            zerosubscript,           U2205,                    VoidSymbol,              NoSymbol,                VoidSymbol,              emptyset                ] };
@@ -147,9 +147,9 @@ xkb_symbols "mine_s7_base" {
     key <AC10> { [ h,                       H,                       NoSymbol,                U00B7,                    KP_Add,                  NoSymbol,                Greek_psi,               Greek_PSI               ] };
 
     key <LSGT> { [ ssharp,                  U1E9E,                   VoidSymbol,              section,                  VoidSymbol,              NoSymbol,                Greek_finalsmallsigma,   jot                     ] };
-    key <AB01> { [ v,                       V,                       NoSymbol,                U2039,                    NoSymbol,                NoSymbol,                VoidSymbol,              radical                 ] };
+    key <AB01> { [ v,                       V,                       NoSymbol,                U2039,                    NoSymbol,                NoSymbol,                U03D6,                   radical                 ] };
     key <AB02> { [ x,                       X,                       NoSymbol,                U203A,                    NoSymbol,                NoSymbol,                Greek_xi,                Greek_XI                ] };
-    key <AB03> { [ udiaeresis,              Udiaeresis,              NoSymbol,                singlelowquotemark,       NoSymbol,                NoSymbol,                VoidSymbol,              union                   ] };
+    key <AB03> { [ udiaeresis,              Udiaeresis,              NoSymbol,                singlelowquotemark,       NoSymbol,                NoSymbol,                U03F0,                   union                   ] };
     key <AB04> { [ adiaeresis,              Adiaeresis,              NoSymbol,                leftsinglequotemark,      NoSymbol,                NoSymbol,                Greek_eta,               U2135                   ] };
     key <AB05> { [ odiaeresis,              Odiaeresis,              NoSymbol,                rightsinglequotemark,     NoSymbol,                NoSymbol,                U03F5,                   intersection            ] };
     key <AB06> { [ p,                       P,                       NoSymbol,                U2113,                    U202F,                   NoSymbol,                Greek_pi,                Greek_PI                ] };
