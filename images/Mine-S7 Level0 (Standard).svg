@@ -56,9 +56,9 @@
    showguides="true"
    inkscape:guide-bbox="true"
    inkscape:zoom="1.2"
-   inkscape:cx="421.66667"
-   inkscape:cy="78.333333"
-   inkscape:current-layer="sublayer3a"
+   inkscape:cx="305"
+   inkscape:cy="150.83333"
+   inkscape:current-layer="T_others"
    inkscape:window-x="26"
    inkscape:window-y="23"
    showgrid="true"
@@ -364,11 +364,7 @@
    transform="translate(602,150)" />
 
     
-  <use
-   id="K_kb4m"
-   xlink:href="#K_kb2a"
-   transform="translate(690,100)"
-   style="display:inline;fill:#ffffff" /></g>
+  </g>
 
 <!-- Modification keys -->
   <g
@@ -516,6 +512,10 @@
    height="44"
    rx="6"
    ry="6"
+   style="display:inline;fill:#b3b3b3" /><use
+   id="K_kb4m"
+   xlink:href="#K_kb2a"
+   transform="translate(690,100)"
    style="display:inline;fill:#b3b3b3" /></g>
   
 </g>
@@ -549,7 +549,7 @@
     <g
    id="g47"
    inkscape:label="tab"
-   transform="translate(564.67013,150.11676)"
+   transform="translate(694.68101,50.166478)"
    style="stroke-width:1.50607;stroke-dasharray:none"><path
      id="S_kb3a-l1"
      style="fill:none;stroke:#000000;stroke-width:1.50607;stroke-dasharray:none;marker-end:url(#TriangleOutM)"
@@ -890,35 +890,47 @@
    id="text48"
    x="653.7998"
    y="130.49232"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;writing-mode:lr-tb;text-anchor:middle">Mod3</text><text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;writing-mode:lr-tb;text-anchor:middle">Sym</text><text
    id="text49"
-   x="57.443882"
+   x="61.45364"
    y="130.49232"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;writing-mode:lr-tb;text-anchor:middle">Mod3</text><text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;writing-mode:lr-tb;text-anchor:middle">Sym</text><text
    id="text50"
-   x="707.6333"
-   y="129.0526"
+   x="578.67096"
+   y="221.97612"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;writing-mode:lr-tb;text-anchor:middle"><tspan
      sodipodi:role="line"
-     x="707.6333"
-     y="129.0526"
-     id="tspan6">-</tspan></text><text
+     id="tspan2"
+     x="578.67096"
+     y="221.97612">Greek</tspan><tspan
+     sodipodi:role="line"
+     x="578.67096"
+     y="237.97612"
+     id="tspan6">Math</tspan></text><text
    id="text51"
    x="691.95166"
-   y="79.657463"
+   y="71.280586"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;writing-mode:lr-tb;text-anchor:middle"><tspan
+     sodipodi:role="line"
+     id="tspan4"
+     x="691.95166"
+     y="71.280586">Nav</tspan><tspan
      sodipodi:role="line"
      id="tspan5"
      x="691.95166"
-     y="79.657463">Mod4</tspan></text><text
+     y="87.280586">Num</tspan></text><text
    id="text52"
-   x="42.250755"
-   y="79.657463"
+   x="46.260513"
+   y="71.280586"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;writing-mode:lr-tb;text-anchor:middle"><tspan
      sodipodi:role="line"
+     id="tspan1"
+     x="46.260513"
+     y="71.280586">Nav</tspan><tspan
+     sodipodi:role="line"
      id="tspan3"
-     x="42.250755"
-     y="79.657463">Mod4</tspan></text></g>
+     x="46.260513"
+     y="87.280586">Num</tspan></text></g>
 <!-- ========     alternates inscriptions    ======== -->
   
 <!-- ========        Linux Key with AltGr     ======== -->
