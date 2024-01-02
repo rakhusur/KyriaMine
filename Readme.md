@@ -15,7 +15,7 @@ To use the layouts, place the files in the `xkb` folder in `~/.config/xkb`.
 
 ## Mine S
 
-![Mine S Base Layer](https://github.com/rakhusur/MineLayoutVariants/blob/master/images/Mine-S%20Level0%20(Standard).svg)
+![Mine S Base Layer](/images/Mine-S%20Level0%20(Standard).svg)
 
 This variant contains two changes:
 - Tab and right Mod4 (AltGr) as well as ß and left Mod4 are exchanged
