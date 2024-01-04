@@ -156,21 +156,31 @@ because the layers correspond to keys that are usually physical keys on a keyboa
 Having them in the firmware makes the keyboard minimally usable with any layout.
 Also, XKB supports only three modifier keys.
 
+### Base Layer
 ![](/images/Kyne%20Level0%20(Standard).svg)
+### Uppercase Layer (Shift)
 ![](/images/Kyne%20Level1%20(Uppercase).svg)
+### Programming Layer (Sym)
 ![](/images/Kyne%20Level2%20(Programming).svg)
+### Typographical Layer (Shift + Sym)
 ![](/images/Kyne%20Level3%20(Typographical).svg)
 The typographical layer includes the accents that are usually found on Neo level 4.
+### Navigation and Number Layer (NavNum)
 ![](/images/Kyne%20Level4%20(NavNum).svg)
 Here, Kyne differs a bit from Mine S7, particularly for the bottom row of the left hand.
 This is convenient for programming when locking in the layer:
 One can navigate with the arrows, select code with Shift and have cut, copy, paste at
 a single keystroke.
 I would do the same in Mine S7, but XKB doesn’t seem to be able to simulate Ctrl
-and the direct Cut, Copy, Paste codes are not used by many application.
+and the direct Cut, Copy, Paste codes are not used by many applications.
+### Greek Layer (Var)
 ![](/images/Kyne%20Level5%20(Greek).svg)
+### Uppercase Greek Layer (Shift + Var)
 ![](/images/Kyne%20Level6%20(Uppercase%20Greek).svg)
+### Math Layer (Sym + Var)
 ![](/images/Kyne%20Level7%20(Math).svg)
 Math layers are not yet done.
+### More Math Layer (Shift + Sym + Var)
 ![](/images/Kyne%20Level8%20(Math%202).svg)
+### Function Layer (NavNum + Var)
 ![](/images/Kyne%20Level9%20(Function).svg)
