@@ -157,7 +157,7 @@ xkb_symbols "mine_s7_base" {
     key <AB05> { [ odiaeresis,              Odiaeresis,              NoSymbol,                rightsinglequotemark,     NoSymbol,                NoSymbol,                U03F5,                   intersection            ] };
 
     key <AB06> { [ p,                       P,                       NoSymbol,                U2113,                    parenleft,               NoSymbol,                Greek_pi,                Greek_PI                ] };
-    key <AB07> { [ f,                       F,                       NoSymbol,                permille,                 NoSymbol,                NoSymbol,                Greek_phi,               Greek_PHI               ] };
+    key <AB07> { [ f,                       F,                       NoSymbol,                U2030,                    NoSymbol,                NoSymbol,                Greek_phi,               Greek_PHI               ] };
     key.type[Group1] = "EIGHT_LEVEL_WITH_LEVEL5_LOCK";
     key <AB08> { [ comma,                   ellipsis,                NoSymbol,                degree,                   NoSymbol,                NoSymbol,                U03F1,                   U21D2                   ] };
     key <AB09> { [ period,                  rightsinglequotemark,    NoSymbol,                enfilledcircbullet,       NoSymbol,                NoSymbol,                U03D1,                   U21A6                   ] };
@@ -251,6 +251,6 @@ xkb_symbols "kyne" {
 
     include "shift(both_capslock)"
     include "level3(ac12_switch)"
-    include "level5(ad12_switch)"
+    include "level5(ralt_switch)"
 };
 

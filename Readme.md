@@ -45,7 +45,7 @@ producing the following layers:
 |           |     None        |         Sym         |          NavNum        |        GreekMath       |
 |----------:|:---------------:|:-------------------:|:----------------------:|:----------------------:|
 | **None**  | lowercase latin | programming symbols | navigation and numbers | lowercase greek        |
-| **Shift** | uppercase latin |   other symbols    |                        | uppercase greek / math |
+| **Shift** | uppercase latin |    other symbols    |                        | uppercase greek / math |
 
 Note: Technically, GreekMath is just Sym + NavNum because XKB doesn’t
 support more than three modifiers.
@@ -67,7 +67,7 @@ Mine level 2 with the following modifications:
  - Shift + `,` = `…` ellipsis,
  - Shift + `.` = `’` apostrophe (or closing english single quotes).
 
- Admittedly, the last two look like they’re reversed, but this way,
+ Admittedly, the last two look like they’re mixed up, but this way,
  the apostrophe is in the same position as its replacement character `'` on
  the symbol layer and it is not on the same finger as `t`.
 
@@ -128,4 +128,49 @@ or have not so natural compose sequences.
 
 ## Kyne
 
-TODO
+The Kyria is a split keyboard without a number row.
+While numbers are already available in Neo,
+some typographical symbols are lost,
+which was the original motivation for the typographical layer,
+even though I now like it also on usual keyboards for the
+more logical arrangement.
+
+The Kyne layout uses the seven layers of Mine S7 plus three more.
+The GreekMath modifier is now called Var because it can also combine
+with NavNum to yield a layer for function keys, media and bluetooth
+control.
+Neo’s math layer is split up into a separate uppercase greek and two
+math layers.
+This gives:
+
+|          |     None        |       Shift     |         Sym         |     Shift + Sym     |        NavNum           |
+|---------:|:---------------:|:---------------:|:-------------------:|:-------------------:|:-----------------------:|
+| **None** | lowercase latin | uppercase latin | programming symbols |    other symbols    | navigation and numbers  |
+| **Var**  | lowercase greek | uppercase greek |    math symbols     |  more math symbols  | media and function keys |
+
+All modifiers are on thumbs with Var on the right hand and the others on the left hand.
+Sym is above Shift and the two can be easily pressed together.
+
+The NavNum key is implemented directly in the keyboard firmware,
+because the layers correspond to keys that are usually physical keys on a keyboard and layout-independent.
+Having them in the firmware makes the keyboard minimally usable with any layout.
+Also, XKB supports only three modifier keys.
+
+![]("/images/Kyne Level0 (Standard).svg")
+![]("/images/Kyne Level1 (Uppercase).svg")
+![]("/images/Kyne Level0 (Programming).svg")
+![]("/images/Kyne Level0 (Typographical).svg")
+The typographical layer includes the accents that are usually found on Neo level 4.
+![]("/images/Kyne Level0 (NavNum).svg")
+Here, Kyne differs a bit from Mine S7, particularly for the bottom row of the left hand.
+This is convenient for programming when locking in the layer:
+One can navigate with the arrows, select code with Shift and have cut, copy, paste at
+a single keystroke.
+I would do the same in Mine S7, but XKB doesn’t seem to be able to simulate Ctrl
+and the direct Cut, Copy, Paste codes are not used by many application.
+![]("/images/Kyne Level0 (Greek).svg")
+![]("/images/Kyne Level0 (Uppercase Greek).svg")
+![]("/images/Kyne Level0 (Math).svg")
+Math layers are not yet done.
+![]("/images/Kyne Level0 (Math 2).svg")
+![]("/images/Kyne Level0 (Function).svg")
