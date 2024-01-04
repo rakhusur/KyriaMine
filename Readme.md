@@ -156,7 +156,7 @@ because the layers correspond to keys that are usually physical keys on a keyboa
 Having them in the firmware makes the keyboard minimally usable with any layout.
 Also, XKB supports only three modifier keys.
 
-![]("/images/Kyne%20Level0%20(Standard).svg")
+![](/images/Kyne%20Level0%20(Standard).svg)
 ![]("/images/Kyne%20Level1%20(Uppercase).svg")
 ![]("/images/Kyne%20Level2%20(Programming).svg")
 ![]("/images/Kyne%20Level3%20(Typographical).svg")
