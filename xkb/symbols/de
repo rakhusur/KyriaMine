@@ -191,9 +191,9 @@ xkb_symbols "kyne_base" {
     key.type[Group1] = "EIGHT_LEVEL_WITH_LEVEL5_LOCK";
     key <SPCE> { [ NoSymbol, NoSymbol, NoSymbol, NoSymbol,           U202F,                   space,                   space,                   space                    ] };
     key <TAB>  { [ Tab,      ISO_Left_Tab, Multi_key, Multi_key,     Tab,                     ISO_Left_Tab,            Multi_key,               Multi_key                ] };
-    key <AE11> { [ Multi_key, U21BB,   VoidSymbol, VoidSymbol,       VoidSymbol,              VoidSymbol,              VoidSymbol,              VoidSymbol               ] };
+    key <AC11> { [ Multi_key, U21BB,   VoidSymbol, VoidSymbol,       VoidSymbol,              VoidSymbol,              VoidSymbol,              VoidSymbol               ] };
     key <TLDE> { [ NoSymbol, NoSymbol, NoSymbol, dead_abovedot,      U02DE,                   dead_belowdot,           NoSymbol,                NoSymbol                 ] };
-    key <AC12> { [ NoSymbol, NoSymbol, NoSymbol, dead_doubleacute,   dead_psili,              dead_breve,              NoSymbol,                NoSymbol                 ] };
+    key <AE11> { [ NoSymbol, NoSymbol, NoSymbol, dead_doubleacute,   dead_psili,              dead_breve,              NoSymbol,                NoSymbol                 ] };
     key <AE12> { [ NoSymbol, NoSymbol, NoSymbol, dead_diaeresis,     dead_dasia,              dead_macron,             NoSymbol,                NoSymbol                 ] };
 
     // Top row
@@ -240,6 +240,10 @@ xkb_symbols "kyne_base" {
     key <AB09> { [ NoSymbol, NoSymbol, NoSymbol, NoSymbol,           U03D1,                   VoidSymbol,              U21A6,                   NoSymbol                 ] };
     key.type[Group1] = "EIGHT_LEVEL_ALPHABETIC_WITH_LEVEL5_LOCK";
     key <AB10> { [ NoSymbol, NoSymbol, NoSymbol, NoSymbol,           Greek_kappa,             Greek_KAPPA,             multiply,                NoSymbol                 ] };
+
+    // NavNum Layer
+    key.type[Group1] = "TWO_LEVEL";
+    key <KPDL> { [ KP_Decimal, KP_Separator ] };
 };
 
 default partial alphanumeric_keys modifier_keys keypad_keys
@@ -250,7 +254,7 @@ xkb_symbols "kyne" {
     name[Group1]= "German (Kyne)";
 
     include "shift(both_capslock)"
-    include "level3(ac12_switch)"
+    include "level3(bksl_switch)"
     include "level5(ralt_switch)"
 };
 

@@ -23,12 +23,12 @@
      inkscape:zoom="1.184265"
      inkscape:cx="718.16696"
      inkscape:cy="192.52448"
-     inkscape:window-width="1920"
-     inkscape:window-height="1204"
+     inkscape:window-width="3840"
+     inkscape:window-height="2084"
      inkscape:window-x="26"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      inkscape:document-units="cm" />
   <desc
      id="desc1">Kyria rev3 Bottom Plate - No Kerf.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
@@ -511,7 +511,7 @@
            id="tspan145"
            x="285.47311"
            y="1089.7749"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">@</tspan></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">&amp;</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -522,7 +522,7 @@
            id="tspan146"
            x="285.47311"
            y="1162.7236"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">&amp;</tspan></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">@</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -868,7 +868,7 @@
            id="tspan211"
            x="-915.12323"
            y="1016.8262"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">♫</tspan></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"

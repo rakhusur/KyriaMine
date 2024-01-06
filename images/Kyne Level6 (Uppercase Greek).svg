@@ -21,10 +21,10 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.184265"
-     inkscape:cx="650.19231"
+     inkscape:cx="650.61452"
      inkscape:cy="192.52448"
-     inkscape:window-width="1920"
-     inkscape:window-height="1204"
+     inkscape:window-width="2708"
+     inkscape:window-height="2068"
      inkscape:window-x="26"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
@@ -335,7 +335,7 @@
            id="tspan129"
            x="-74.872047"
            y="969.72583"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Ω</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -346,7 +346,7 @@
            id="tspan130"
            x="-74.872047"
            y="1042.6746"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Μ</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -357,7 +357,7 @@
            id="tspan131"
            x="-74.872047"
            y="1115.6233"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Π</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -368,7 +368,7 @@
            id="tspan132"
            x="-3.0316029"
            y="962.24658"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Β</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -379,7 +379,7 @@
            id="tspan133"
            x="-3.0316029"
            y="1035.1953"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Ν</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -390,7 +390,7 @@
            id="tspan134"
            x="-3.0316029"
            y="1108.144"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Φ</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -401,7 +401,7 @@
            id="tspan135"
            x="68.541664"
            y="953.21375"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Δ</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -412,7 +412,7 @@
            id="tspan136"
            x="68.541664"
            y="1026.1625"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Τ</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -434,7 +434,7 @@
            id="tspan138"
            x="142.24245"
            y="969.2063"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Γ</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -445,7 +445,7 @@
            id="tspan139"
            x="142.24245"
            y="1042.155"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Σ</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -467,7 +467,7 @@
            id="tspan141"
            x="213.83057"
            y="1016.8262"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">◌̆</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -478,7 +478,7 @@
            id="tspan142"
            x="213.83057"
            y="1089.7749"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Ψ</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -489,7 +489,7 @@
            id="tspan143"
            x="213.83057"
            y="1162.7236"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">K</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -500,7 +500,7 @@
            id="tspan144"
            x="285.47311"
            y="1016.8262"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">◌̄</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -511,7 +511,7 @@
            id="tspan145"
            x="285.47311"
            y="1089.7749"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Υ</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -522,7 +522,7 @@
            id="tspan146"
            x="285.47311"
            y="1162.7236"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Ζ</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -568,7 +568,7 @@
            id="tspan152"
            x="-710.6322"
            y="938.68549"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">♫</tspan></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">↹</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -880,7 +880,7 @@
            id="tspan212"
            x="-915.12323"
            y="1089.7749"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Θ</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -904,7 +904,7 @@
            id="tspan214"
            x="-843.48065"
            y="1016.8262"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">◌̣</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -916,7 +916,7 @@
            id="tspan215"
            x="-843.48065"
            y="1089.7749"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Χ</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -940,7 +940,7 @@
            id="tspan217"
            x="-140.64178"
            y="969.87262"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Λ</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -952,7 +952,7 @@
            id="tspan218"
            x="-140.64178"
            y="1042.8213"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Ρ</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -964,7 +964,7 @@
            id="tspan219"
            x="-140.64178"
            y="1115.77"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Ξ</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -988,7 +988,7 @@
            id="tspan221"
            x="-67.597404"
            y="1027.3779"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Ι</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -1012,7 +1012,7 @@
            id="tspan223"
            x="4.9258213"
            y="963.47034"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Α</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -1024,7 +1024,7 @@
            id="tspan224"
            x="4.9258213"
            y="1036.4191"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Ε</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -1036,7 +1036,7 @@
            id="tspan225"
            x="4.9258213"
            y="1109.3678"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Η</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -1060,7 +1060,7 @@
            id="tspan227"
            x="77.554596"
            y="1042.8049"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Ο</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
