@@ -254,7 +254,7 @@ xkb_symbols "kyne" {
     name[Group1]= "German (Kyne)";
 
     include "shift(both_capslock)"
-    include "level3(bksl_switch)"
+    include "level3(caps_switch)"
     include "level5(ralt_switch)"
 };
 
