@@ -21,14 +21,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.184265"
-     inkscape:cx="650.61452"
-     inkscape:cy="192.52448"
-     inkscape:window-width="2708"
-     inkscape:window-height="2068"
+     inkscape:cx="313.27448"
+     inkscape:cy="260.49913"
+     inkscape:window-width="1911"
+     inkscape:window-height="1091"
      inkscape:window-x="26"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      inkscape:document-units="cm" />
   <desc
      id="desc1">Kyria rev3 Bottom Plate - No Kerf.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
@@ -262,7 +262,7 @@
          rx="5.5627427"
          ry="5.4789333" />
       <rect
-         style="fill:#999999;stroke:#000000;stroke-width:0.920143;stroke-opacity:1"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.920143;stroke-opacity:1"
          id="rect91"
          width="66.141731"
          height="66.141731"
@@ -281,7 +281,7 @@
          ry="5.4789333"
          transform="rotate(-30.802888,-4.54e-5,-1.5015729e-6)" />
       <rect
-         style="fill:#ffffff;stroke:#000000;stroke-width:0.920143;stroke-opacity:1"
+         style="fill:#999999;stroke:#000000;stroke-width:0.920143;stroke-opacity:1"
          id="rect98"
          width="66.141731"
          height="66.141731"
@@ -536,17 +536,6 @@
            style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
-         x="42.127628"
-         y="1191.7352"
-         id="text148"><tspan
-           sodipodi:role="line"
-           id="tspan148"
-           x="42.127628"
-           y="1191.7352"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Var</tspan></text>
-      <text
-         xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
          x="-709.49158"
          y="1013.6696"
@@ -560,30 +549,6 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
-         x="-710.6322"
-         y="938.68549"
-         id="text152"
-         transform="rotate(-30,5.6941888e-6,1.0416908e-6)"><tspan
-           sodipodi:role="line"
-           id="tspan152"
-           x="-710.6322"
-           y="938.68549"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">↹</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
-         x="-346.00568"
-         y="1147.7301"
-         id="text160"
-         transform="rotate(-15)"><tspan
-           sodipodi:role="line"
-           id="tspan160"
-           x="-346.00568"
-           y="1147.7301"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">⌫</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
          x="-1024.9459"
          y="787.22607"
          id="text161"
@@ -593,18 +558,31 @@
            x="-1024.9459"
            y="787.22607"
            style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">↵</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
-         x="-1024.4386"
-         y="707.56775"
+      <path
+         style="font-size:24px;line-height:1;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;text-anchor:middle;fill:#302e55;stroke-width:0.996;stroke-linejoin:bevel"
+         d="m 39.024822,1184.3391 1.8,5.256 h 2.496 l -6.144,-17.496 h -2.88 l -6.24,17.496 h 2.376 l 1.848,-5.256 z m -0.624,-1.872 h -5.568 l 2.88,-7.968 z m 8.736009,-10.368 h -2.016 v 17.496 h 2.016 z m 7.920017,4.92 h -2.064 v -3.456 h -1.992 v 3.456 h -1.704 v 1.632 h 1.704 v 9.504 c 0,1.272 0.864,1.992 2.424,1.992 0.48,0 0.96,-0.048 1.632,-0.168 v -1.68 c -0.264,0.072 -0.576,0.096 -0.96,0.096 -0.864,0 -1.104,-0.24 -1.104,-1.128 v -8.616 h 2.064 z"
+         id="text148"
+         aria-label="Alt" />
+      <path
+         style="font-size:24px;line-height:1;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;text-anchor:middle;fill:#302e55;stroke-width:0.996;stroke-linejoin:bevel"
+         d="m -154.55409,1172.4555 -3.48949,-18.188 -2.05768,1.188 3.20551,15.2481 -11.85191,-10.2561 -2.07846,1.2 14.19357,12.008 z m 2.24387,-11.5215 1.74591,-1.008 c -0.62251,-1.4143 -0.1807,-2.473 1.4405,-3.409 1.55885,-0.9 2.7678,-0.822 3.3678,0.2172 l 0.264,0.4572 c 0.42,0.7275 0.16353,1.2913 -1.11226,2.2496 -2.94004,2.2516 -5.02,3.7851 -3.34,6.6949 1.14,1.9745 3.23179,2.4296 5.43496,1.1576 1.37178,-0.792 2.19736,-1.906 2.77566,-3.7364 0.7607,1.0296 1.5891,1.2164 2.71147,0.5684 0.35334,-0.204 0.59954,-0.4015 1.07673,-0.871 l -0.756,-1.3095 c -0.16307,0.1496 -0.2462,0.1976 -0.35013,0.2576 -0.60275,0.348 -1.1153,0.2282 -1.4273,-0.3122 l -3.696,-6.4016 c -1.116,-1.933 -3.12936,-2.1562 -5.81057,-0.6082 -1.95376,1.128 -3.92485,3.0419 -2.32477,6.0534 z m 7.29903,4.6262 c -1.351,0.78 -2.51282,0.5917 -3.14882,-0.5099 -1.38,-2.3902 2.60531,-3.8874 3.904,-5.718 l 1.128,1.9537 c 0.6,1.0392 0.1745,3.0862 -1.88318,4.2742 z m 8.38622,-15.9546 -1.02,-1.7667 c -0.31499,0.1265 -0.47248,0.1897 -0.70111,0.3217 -1.12237,0.648 -1.59054,1.8051 -1.6522,4.0023 l -1.14,-1.9746 -1.60041,0.924 6.288,10.8912 1.7459,-1.008 -3.264,-5.6534 c -1.764,-3.0554 -0.73143,-4.4829 1.34382,-5.7365 z"
+         id="text152"
+         aria-label="Var" />
+      <path
+         style="font-size:24px;line-height:1;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;text-anchor:middle;fill:#302e55;stroke-width:0.996;stroke-linejoin:bevel"
+         d="m -56.748633,1194.059 c 0.92554,3.4542 3.88425,8.3761 9.98117,6.7424 4.12643,-1.1056 5.84834,-3.9523 5.1595,-8.5631 l -2.2255,0.5963 c 0.3472,3.3358 -0.59194,5.3019 -3.42017,6.0597 -3.36143,0.9007 -6.21474,-1.217 -7.34526,-5.4361 -1.16158,-4.3351 0.16411,-7.5477 3.4328,-8.4235 2.73551,-0.733 4.4155,0.1585 5.53592,2.3927 l 2.20231,-0.5901 c -1.66615,-3.529 -4.28342,-4.7658 -7.99258,-3.7719 -6.16647,1.6523 -6.27236,7.4699 -5.32819,10.9936 z m 20.49271,-9.6652 -1.99367,0.5342 -0.89447,-3.3383 -1.92413,0.5156 0.89448,3.3383 -1.64594,0.441 0.42239,1.5764 1.64594,-0.4411 2.45982,9.1802 c 0.32922,1.2287 1.35013,1.7005 2.85697,1.2967 0.46364,-0.1242 0.91487,-0.2948 1.53291,-0.5846 l -0.43482,-1.6228 c -0.23637,0.1379 -0.53152,0.2418 -0.90244,0.3412 -0.83456,0.2236 -1.1285,0.054 -1.35833,-0.8038 l -2.22998,-8.3224 1.99367,-0.5342 z m 8.149972,-0.37 -0.527991,-1.9705 c -0.336974,0.041 -0.505461,0.061 -0.760466,0.1292 -1.251835,0.3355 -2.003535,1.332 -2.631775,3.4384 l -0.59011,-2.2024 -1.78503,0.4783 3.25491,12.1475 1.947307,-0.5218 -1.689567,-6.3055 c -0.91312,-3.4078 0.45374,-4.5195 2.782722,-5.1932 z m 2.075063,-7.4634 -1.947307,0.5218 4.528298,16.8999 1.947307,-0.5218 z"
+         id="text160"
+         aria-label="Ctrl" />
+      <path
+         style="font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;stroke-width:0.996;stroke-linejoin:bevel"
+         d="m -245.48338,1226.3186 1.26714,1.2672 16.56327,-16.5633 0.56568,5.951 1.44816,0.045 -0.22628,-9.0962 -9.05097,-0.181 0.0453,1.4481 5.95101,0.5657 z m 15.49978,-23.5099 9.27724,9.2773 1.26714,-1.2671 -9.27724,-9.2773 z m 14.6852,10.3408 -1.26714,-1.2672 -16.56327,16.5633 -0.56568,-5.951 -1.44816,-0.045 0.22627,9.0962 9.05097,0.181 -0.0453,-1.4481 -5.95101,-0.5657 z m -15.49979,23.5099 -9.27724,-9.2773 -1.26713,1.2672 9.27724,9.2772 z"
          id="text162"
-         transform="rotate(-45)"><tspan
-           sodipodi:role="line"
-           id="tspan162"
-           x="-1024.4386"
-           y="707.56775"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">⌧</tspan></text>
+         aria-label="↹" />
+      <path
+         style="font-size:24px;line-height:1;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;text-anchor:middle;fill:#302e55;stroke-width:0.996;stroke-linejoin:bevel"
+         d="m 97.579997,1181.6271 h 9.527993 v -1.968 h -9.527993 v -5.592 h 9.887993 v -1.968 H 95.347997 v 17.496 h 12.551993 v -1.968 H 97.579997 Z m 13.967983,4.224 h -2.112 c 0.096,2.904 1.728,4.296 5.016,4.296 3.168,0 5.184,-1.56 5.184,-3.984 0,-1.872 -1.056,-2.904 -3.552,-3.504 l -1.92,-0.456 c -1.632,-0.384 -2.328,-0.912 -2.328,-1.8 0,-1.152 1.032,-1.896 2.664,-1.896 1.608,0 2.472,0.696 2.52,2.016 h 2.112 c -0.024,-2.472 -1.656,-3.864 -4.56,-3.864 -2.928,0 -4.824,1.512 -4.824,3.84 0,1.968 1.008,2.904 3.984,3.624 l 1.872,0.456 c 1.392,0.336 1.944,0.84 1.944,1.752 0,1.176 -1.176,1.968 -2.928,1.968 -2.448,0 -2.904,-1.224 -3.072,-2.448 z m 20.184,-4.608 c -0.24,-3 -2.088,-4.584 -4.968,-4.584 -3.384,0 -5.592,2.688 -5.592,6.864 0,4.056 2.16,6.624 5.568,6.624 3,0 4.896,-1.8 5.136,-4.872 h -2.016 c -0.336,2.016 -1.368,3.024 -3.072,3.024 -2.208,0 -3.528,-1.8 -3.528,-4.776 0,-3.144 1.296,-5.016 3.48,-5.016 1.68,0 2.736,0.984 2.976,2.736 z"
+         id="text4"
+         aria-label="Esc" />
     </g>
   </g>
   <g
@@ -1162,6 +1140,18 @@
            y="791.39081"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill-opacity:1;stroke:none;stroke-linejoin:bevel;line-height:0.9"
            id="tspan1">Num</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
+         x="-112.13612"
+         y="1192.1636"
+         id="text3"
+         transform="scale(-1,1)"><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           x="-112.13612"
+           y="1192.1636"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Esc</tspan></text>
     </g>
   </g>
 </svg>

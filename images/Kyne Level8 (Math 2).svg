@@ -21,14 +21,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.184265"
-     inkscape:cx="649.77011"
-     inkscape:cy="192.52448"
-     inkscape:window-width="1920"
-     inkscape:window-height="1204"
+     inkscape:cx="312.00787"
+     inkscape:cy="192.94668"
+     inkscape:window-width="1744"
+     inkscape:window-height="1083"
      inkscape:window-x="26"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      inkscape:document-units="cm" />
   <desc
      id="desc1">Kyria rev3 Bottom Plate - No Kerf.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
@@ -262,7 +262,7 @@
          rx="5.5627427"
          ry="5.4789333" />
       <rect
-         style="fill:#999999;stroke:#000000;stroke-width:0.920143;stroke-opacity:1"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.920143;stroke-opacity:1"
          id="rect91"
          width="66.141731"
          height="66.141731"
@@ -281,7 +281,7 @@
          ry="5.4789333"
          transform="rotate(-30.802888,-4.54e-5,-1.5015729e-6)" />
       <rect
-         style="fill:#ffffff;stroke:#000000;stroke-width:0.920143;stroke-opacity:1"
+         style="fill:#999999;stroke:#000000;stroke-width:0.920143;stroke-opacity:1"
          id="rect98"
          width="66.141731"
          height="66.141731"
@@ -536,17 +536,6 @@
            style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
-         x="42.127628"
-         y="1191.7352"
-         id="text148"><tspan
-           sodipodi:role="line"
-           id="tspan148"
-           x="42.127628"
-           y="1191.7352"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Var</tspan></text>
-      <text
-         xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
          x="-709.49158"
          y="1013.6696"
@@ -557,30 +546,6 @@
            x="-709.49158"
            y="1013.6696"
            style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel" /></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
-         x="-710.6322"
-         y="938.68549"
-         id="text152"
-         transform="rotate(-30,5.6941888e-6,1.0416908e-6)"><tspan
-           sodipodi:role="line"
-           id="tspan152"
-           x="-710.6322"
-           y="938.68549"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">↹</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
-         x="-346.00568"
-         y="1147.7301"
-         id="text160"
-         transform="rotate(-15)"><tspan
-           sodipodi:role="line"
-           id="tspan160"
-           x="-346.00568"
-           y="1147.7301"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">⌫</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
@@ -595,16 +560,62 @@
            style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">↵</tspan></text>
       <text
          xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
+         x="42.292973"
+         y="1190.943"
+         id="text148"><tspan
+           sodipodi:role="line"
+           id="tspan148"
+           x="42.292973"
+           y="1190.943"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Alt</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
+         x="-710.97198"
+         y="939.60455"
+         id="text152-9"
+         transform="rotate(-30)"><tspan
+           sodipodi:role="line"
+           id="tspan152-3"
+           x="-710.97198"
+           y="939.60455"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Var</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
+         x="-346.09595"
+         y="1148.7057"
+         id="text160"
+         transform="rotate(-15)"><tspan
+           sodipodi:role="line"
+           id="tspan160"
+           x="-346.09595"
+           y="1148.7057"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Ctrl</tspan></text>
+      <text
+         xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
-         x="-1024.4386"
-         y="707.56775"
+         x="-1025.9004"
+         y="712.68243"
          id="text162"
          transform="rotate(-45)"><tspan
            sodipodi:role="line"
            id="tspan162"
-           x="-1024.4386"
-           y="707.56775"
-           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">⌧</tspan></text>
+           x="-1025.9004"
+           y="712.68243"
+           style="font-size:32px;fill-opacity:1;stroke:none;stroke-linejoin:bevel">♫</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
+         x="113.68812"
+         y="1190.943"
+         id="text4"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           x="113.68812"
+           y="1190.943"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Esc</tspan></text>
     </g>
   </g>
   <g
@@ -1162,6 +1173,18 @@
            y="791.39081"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill-opacity:1;stroke:none;stroke-linejoin:bevel;line-height:0.9"
            id="tspan1">Num</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;text-anchor:middle;fill:#302e55;fill-opacity:1;stroke:#000000;stroke-width:0.996;stroke-opacity:1"
+         x="-111.74036"
+         y="1192.1746"
+         id="text3"
+         transform="scale(-1,1)"><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           x="-111.74036"
+           y="1192.1746"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill-opacity:1;stroke:none;stroke-linejoin:bevel">Esc</tspan></text>
     </g>
   </g>
 </svg>
