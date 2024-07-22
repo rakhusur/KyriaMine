@@ -255,6 +255,6 @@ xkb_symbols "kyne" {
 
     include "shift(both_capslock)"
     include "level3(caps_switch)"
-    include "level5(ralt_switch)"
+    key <RALT> { [ ISO_Level5_Shift ], actions[Group1] = [ SetMods(modifiers=Mod3) ], type[group1]="ONE_LEVEL" };
 };
 
